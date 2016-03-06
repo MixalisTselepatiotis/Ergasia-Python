@@ -385,7 +385,7 @@ while treasureP != player_start_position :
 	   print "Not so Close!!"
   
   
-  #print player_start_position	  
+
   
   	 
 
